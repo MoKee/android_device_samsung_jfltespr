@@ -8,6 +8,10 @@
     "target_path": "device/samsung/msm8960-common"
   },
   {
+    "repository": "android_vendor_samsung_msm8960-common",
+    "target_path": "vendor/samsung/msm8960-common"
+  },
+  {
     "repository": "android_device_samsung_jf-common",
     "target_path": "device/samsung/jf-common"
   },
@@ -26,9 +30,5 @@
   {
     "repository": "android_vendor_samsung_jfltespr",
     "target_path": "vendor/samsung/jfltespr"
-  },
-  {
-    "repository": "android_device_samsung_jfltespr",
-    "target_path": "device/samsung/jfltespr"
   }
 ]
